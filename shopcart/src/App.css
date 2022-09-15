@@ -34,19 +34,15 @@
   align-items: center;
 }
 
-/* .products {
-  height: 13rem;
-} */
+.products {
+  width: 30rem;
+}
 
 .products img{
   height: 8rem;
   width: auto;
   margin-bottom: 3rem;
   margin-right: 3rem;
-}
-
-.productImg {
-  width: 150px;
 }
 
 .products input {
