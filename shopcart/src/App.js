@@ -57,7 +57,7 @@ class App extends React.Component {
   };
 
   handleDecrement = (subtractValue) => {
-    if(subtractValue.value < 10) {
+    if(subtractValue.value > 0) {
       const updateValue = subtractValue.value--;
       this.setState({ updateValue });
     }
