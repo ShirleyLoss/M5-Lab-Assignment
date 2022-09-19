@@ -53,7 +53,7 @@ const Checkout = ({ totalQuantity }) => {
         <div className="cart-number-items">
             <h4 className="mx-5 pt-3">There are 0 items in your cart.</h4>
             <Link to="/">
-                <Button color="primary" className="m-5">
+                <Button color="success" className="m-5">
                     Continue Shop
                 </Button>
             </Link>
