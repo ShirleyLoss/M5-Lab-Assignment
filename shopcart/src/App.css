@@ -50,6 +50,18 @@
   text-align: center;
 }
 
+#loginForm input {
+  width: 15rem;
+}
+
+#loginForm {
+  width: 50%;
+}
+
+#loginForm .btn {
+  width: 8rem;
+}
+
 /* .App {
   text-align: center;
 }
